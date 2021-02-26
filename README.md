@@ -1,3 +1,5 @@
+<img width="346" alt="tzfriends-1 0 0" src="https://user-images.githubusercontent.com/40796/109318521-e49ee200-781b-11eb-97c1-c53e1ba3635b.png">
+
 # tzfriends
 
 a command line program to see what time your friends around the world are experiencing
